@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <string.h>
-
+#include <math.h>
+#include <stdlib.h>
 struct PhoneBookEntry {
     char name[100];
     char phone_number[15];

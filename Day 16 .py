@@ -6,8 +6,6 @@ import random
 import re
 import sys
 
-
-
 S = input()
 try:
     integer = int(S)

@@ -16,7 +16,7 @@ class Solution:
         return root
 
     def getHeight(self,root):
-        #Write your code here
+        
         if not root:
             return -1
         count = 1
